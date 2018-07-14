@@ -1,2 +1,1 @@
-# keras
-Deep Learning Using Keras
+# various fun projects
